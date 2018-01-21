@@ -433,3 +433,6 @@ PRODUCT_PACKAGES += \
     wificond \
     wpa_supplicant \
     wpa_supplicant.conf
+
+# GAPPS
+GAPPS_VARIANT := pico
